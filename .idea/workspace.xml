@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd59b029-6956-4658-ad1d-32e3411f3412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Jobs/ProductUpdate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/alert.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/badge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/button.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/calendar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/chart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/fontawesome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/forget-pass.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/inbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/map.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/modal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/progress-bar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/switch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/tab.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/typo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/~$README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="cd59b029-6956-4658-ad1d-32e3411f3412" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650995570138</updated>
       <workItem from="1650995572628" duration="725000" />
-      <workItem from="1651037351585" duration="21388000" />
+      <workItem from="1651037351585" duration="21632000" />
     </task>
     <servers />
   </component>

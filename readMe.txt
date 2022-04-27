@@ -25,7 +25,7 @@ You can use whatever database you are comfortable with.
 Don’t forget about validations and handling exceptions.
 --------------------------------------------------------------
 Steps to setup:
-    1. Clone the repo
+    1. Clone the repo: https://github.com/tahir-56ali/shortlinks
     2. composer install
     3. php artisan migrate
     4. access on local machine like: http://localhost/generate-shorten-link
