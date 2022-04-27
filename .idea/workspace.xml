@@ -2,24 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd59b029-6956-4658-ad1d-32e3411f3412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ShortLinkController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/popularLinks.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/shortenLink.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Jobs/ProductUpdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/fontawesome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/forget-pass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/inbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/progress-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/typo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CoolAdmin-master/~$README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650995570138</updated>
       <workItem from="1650995572628" duration="725000" />
-      <workItem from="1651037351585" duration="20882000" />
+      <workItem from="1651037351585" duration="21388000" />
     </task>
     <servers />
   </component>
@@ -198,10 +210,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651082152588">
+    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651088595316">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651082152588" />
+    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651088595316" />
     <state x="627" y="273" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1651087270234">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
