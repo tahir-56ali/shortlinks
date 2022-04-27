@@ -30,4 +30,5 @@ Steps to setup:
     1. Clone the repo: https://github.com/tahir-56ali/shortlinks.git
     2. composer install
     3. php artisan migrate
-    4. access on local machine like: http://localhost/generate-shorten-link
+    4. access on local machine like: http://localhost/<your_project_directory>/generate-shorten-link
+    e.g http://localhost/shorturls/generate-shorten-link
