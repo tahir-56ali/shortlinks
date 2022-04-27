@@ -24,6 +24,8 @@ Use Google effectively to find the right answer for the most optimal algorithm t
 You can use whatever database you are comfortable with.
 Don’t forget about validations and handling exceptions.
 --------------------------------------------------------------
+Note: Additionally I have handled pagination as well so that we can show pagination after 10 records.
+
 Steps to setup:
     1. Clone the repo: https://github.com/tahir-56ali/shortlinks.git
     2. composer install
