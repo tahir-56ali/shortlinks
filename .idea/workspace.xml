@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd59b029-6956-4658-ad1d-32e3411f3412" name="Default Changelist" comment="" />
+    <list default="true" id="cd59b029-6956-4658-ad1d-32e3411f3412" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ShortLinkController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/popularLinks.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shortenLink.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/show.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +34,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\xampp2\htdocs\demo\.idea" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -112,6 +138,13 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
       <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
   <component name="ProjectId" id="28LUt5m8AF3Qp5TGyd0M5QnU8Zc" />
@@ -123,6 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -156,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650995570138</updated>
       <workItem from="1650995572628" duration="725000" />
-      <workItem from="1651037351585" duration="13750000" />
+      <workItem from="1651037351585" duration="20882000" />
     </task>
     <servers />
   </component>
@@ -164,6 +198,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651082152588">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="638" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651082152588" />
+    <state x="627" y="273" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1651087270234">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="627" y="273" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651087270234" />
     <state x="772" y="478" key="NewPhpFileDialog" timestamp="1650995603329">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -172,9 +214,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="591" y="229" width="738" height="702" key="find.popup/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651050296883" />
-    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup" timestamp="1651045500566">
+    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup" timestamp="1651084610363">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651045500566" />
+    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1651084610363" />
   </component>
 </project>

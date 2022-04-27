@@ -11,19 +11,17 @@
 |
 */
 
-use Illuminate\Support\Facades\DB;
-
 Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', function () {
-    $users = DB::table('users')->paginate(2);
-    return view('home', ['users' => $users]);
-});
+// routes for URL shorten
+Route::get('generate-shorten-link', 'ShortLinkController@index')->name('short-links');
+Route::post('generate-shorten-link', 'ShortLinkController@store')->name('generate.shorten.link.post');
 
-Route::get('edit-user', function () {
-   return \Illuminate\Http\Request::get;
-});
+// most visited links
+Route::get('popular-links', 'ShortLinkController@popularLinks')->name('popular-links');
 
-Route::resource('products','ProductController');
+// visit url and increment visit count
+Route::get('{code}', 'ShortLinkController@shortenLink')->name('shorten.link');
+

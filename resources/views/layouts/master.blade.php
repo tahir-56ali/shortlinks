@@ -43,6 +43,11 @@
     <div class="page-container">
         <div class="main-content">
             <div class="section__content section__content--p30">
+                @if ($message = Session::get('error'))
+                    <div class="alert alert-danger">
+                        <p>{{ $message }}</p>
+                    </div>
+                @endif
                 <div class="container-fluid">@yield('content')</div>
             </div>
         </div>
