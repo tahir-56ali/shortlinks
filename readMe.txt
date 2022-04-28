@@ -41,5 +41,5 @@ Steps to setup:
     6. Run command in your project directory: php artisan key:generate
     7. Run command in your project directory: php artisan migrate
     8. Run command in your project directory: php artisan queue:listen (command to process queued/background job for crawling title)
-    9. access on local machine like: http://localhost/<your_project_directory>/public/generate-shorten-link
+    9. Access on local machine like: http://localhost/<your_project_directory>/public/generate-shorten-link
     e.g. http://localhost/shortlinks/public/generate-shorten-link
