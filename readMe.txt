@@ -25,6 +25,7 @@ You can use whatever database you are comfortable with.
 Don’t forget about validations and handling exceptions.
 --------------------------------------------------------------
 Note: Additionally I have handled pagination as well so that we can show pagination after 10 records.
+- Title will take a little bit time (10-20 seconds) to populate as it will be crawled by a background job.
 
 Steps to setup:
     1. Clone the repo in some directory on your local machine: git clone https://github.com/tahir-56ali/shortlinks.git
