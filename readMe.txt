@@ -27,9 +27,19 @@ Don’t forget about validations and handling exceptions.
 Note: Additionally I have handled pagination as well so that we can show pagination after 10 records.
 
 Steps to setup:
-    1. Clone the repo: https://github.com/tahir-56ali/shortlinks.git
-    2. composer install
-    3. php artisan migrate
-    4. php artisan queue:listen (command to process queued/background job for crawling title)
-    5. access on local machine like: http://localhost/<your_project_directory>/generate-shorten-link
-    e.g http://localhost/shorturls/generate-shorten-link
+    1. Clone the repo in some directory on your local machine: git clone https://github.com/tahir-56ali/shortlinks.git
+    2. Run command in your project directory: composer install
+    3. Create copy of environment file from .env.example to .env
+    4. Set below configurations as per your database credentials under .env
+        DB_CONNECTION=mysql
+        DB_HOST=127.0.0.1
+        DB_PORT=3306
+        DB_DATABASE=laravel_demo
+        DB_USERNAME=root
+        DB_PASSWORD=
+    5. Set QUEUE_CONNECTION=database under .env
+    6. Run command in your project directory: php artisan key:generate
+    7. Run command in your project directory: php artisan migrate
+    8. Run command in your project directory: php artisan queue:listen (command to process queued/background job for crawling title)
+    9. access on local machine like: http://localhost/<your_project_directory>/public/generate-shorten-link
+    e.g. http://localhost/shortlinks/public/generate-shorten-link

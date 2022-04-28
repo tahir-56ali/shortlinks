@@ -35,7 +35,6 @@ class CrawlTitle implements ShouldQueue
     public function handle()
     {
         try {
-            sleep(10);
             $httpClient = new Client();
             $response = $httpClient->get($this->shortLink->link);
             $htmlString = (string)$response->getBody();
